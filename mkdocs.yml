@@ -1,8 +1,8 @@
-site_name: JACoW - Running an IPAC
-#site_url: https://docs-IPAC.JACoW.org
+site_name: JACoW - Running an FEL
+#site_url: https://docs-FEL.JACoW.org
 theme: material
-repo_name: 'jacow-org/docs-IPAC'
-repo_url: 'https://github.com/jacow-org/docs-IPAC'
+repo_name: 'jacow-org/docs-FEL'
+repo_url: 'https://github.com/jacow-org/docs-FEL'
 nav:
   - Introduction: index.md
   - Glossary: glossary.md 
