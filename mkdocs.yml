@@ -33,4 +33,11 @@ nav:
       - "SPC MC Coordinators: review tracks": InvitedOrals/MCCtrackreview.md
       - "SPC: give priority to proposals": InvitedOrals/SPCprioritization.md
       - "SPC MC Coordinators: accept proposals": InvitedOrals/MCCaccept.md
+  - Contributed Oral Presentations:
+    - Introduction: ContributedOrals/intro.md
+    - SPC:
+      - "SPC: proposal of track changes": ContributedOrals/SPCtrackreview.md
+      - "SPC Session Chairs: review tracks": ContributedOrals/MCCtrackreview.md
+      - "SPC: give priority to proposals": ContributedOrals/SPCprioritization.md
+      - "SPC Session Chairs: accept proposals": ContributedOrals/MCCaccept.md
 
