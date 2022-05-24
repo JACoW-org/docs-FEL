@@ -18,7 +18,7 @@ Clicking on the track name (in blue) above brings the reviewer to the **review i
 
 ![](../InvitedOrals/img/abstracts_list_reviewer.png)
 
-The reviewer can **customize the list** to show more or less information, limited however to state, submitter, accepted type, submitted type:
+First of all, be sure to click on "**Customize list**" and filter by ***Submitted type: Contributed Oral***. This will let you concentrate only on orals without being distracted by posters.
 
 ![](../InvitedOrals/img/abstracts_list_customisation-reviewer1.png)
 
