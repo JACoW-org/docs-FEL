@@ -10,8 +10,17 @@ Logging in SPC members will be able to return to the "*Call for Abstracts > Revi
 
 It is now necessary to review the abstract again, this time to assign a priority to those abstracts that are meant to be valid contributed orals. The SPC Chair, via the Scientific Secretary, will give precise instructions on how many priorities an SPC member is allowed to assign.
 
-To perform the actual review it is necessary to open an abstract and then click on the *Review button*. 
-**Note**: if a change of track was already proposed for this abstract, a *Change Review* button will be present in place of the previous *Review* one. 
+---
+
+**Important:** only abstracts submittes as *contributed orals* should be taken into consideration bye the SPC at this stage. Be sure to click on "**Customize list**" first and filter by ***Submitted type: Contributed Oral***. This will let you concentrate only on orals without being distracted by posters.
+
+![](../InvitedOrals/img/abstracts_list_customisation-reviewer1.png)
+
+![](../InvitedOrals/img/abstracts_list_customisation-reviewer2.png)
+
+---
+
+To perform the actual review it is necessary to open an abstract and then click on the *Review button*. **Note**: if a change of track was already proposed for this abstract, a *Change Review* button will be present in place of the previous *Review* one.
 
 For a normal FEL it is possible to assign a Priority based on a score, usually from 1 (lower) to 3 (higher): 
 
