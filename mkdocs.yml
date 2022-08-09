@@ -42,6 +42,12 @@ nav:
       - "SPC Session Chairs: accept proposals": ContributedOrals/MCCaccept.md
   - Paper editing:
     - Introduction: PaperEditing/intro.md
+    - Editor-in-chief:
+      - Setting up: PaperEditing/EIC/setup.md
+      - Configuring: PaperEditing/EIC/config.md
+      - Editing Team Setup: PaperEditing/EIC/team.md
+      - Start Editing: PaperEditing/EIC/open.md
+      - Publishing: PaperEditing/EIC/publish.md
     - Editor: 
       - Assigning an editable: PaperEditing/Editor/assign.md
       - Editing an editable: PaperEditing/Editor/edit.md
