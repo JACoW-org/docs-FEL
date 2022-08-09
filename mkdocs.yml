@@ -40,4 +40,14 @@ nav:
       - "SPC Session Chairs: review tracks": ContributedOrals/MCCtrackreview.md
       - "SPC: give priority to proposals": ContributedOrals/SPCprioritization.md
       - "SPC Session Chairs: accept proposals": ContributedOrals/MCCaccept.md
+  - Paper editing:
+    - Introduction: PaperEditing/intro.md
+    - Editor: 
+      - Assigning an editable: PaperEditing/Editor/assign.md
+      - Editing an editable: PaperEditing/Editor/edit.md
+    - Author: 
+      - Submitting a paper: PaperEditing/Author/submit.md
+      - Sending comments to editors: PaperEditing/Author/comment.md
+      - Uploading new version: PaperEditing/Author/upload.md
+      - Approving new version by editor: PaperEditing/Author/approve.md
 
